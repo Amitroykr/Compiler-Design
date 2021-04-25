@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619348977 source:f:\compiler_design_lab\testass4\main.c
+	<stdio.h>
+	<conio.h>
+
